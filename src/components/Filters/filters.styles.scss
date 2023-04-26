@@ -1,0 +1,20 @@
+.filters-container{
+
+    .container{
+        display: flex;
+        justify-content: space-between;
+
+        .left{
+            display: flex;
+            gap: 30px;
+        }
+    }
+
+    .checkbox-filter-container{
+        display: flex;
+        margin-top: -20px;
+    }
+
+    
+    
+}

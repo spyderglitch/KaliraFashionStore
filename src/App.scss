@@ -1,0 +1,12 @@
+.app{
+
+  .link{
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover{
+      color: #f43cb4;
+    }
+  }
+}

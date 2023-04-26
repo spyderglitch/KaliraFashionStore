@@ -1,0 +1,11 @@
+.features {
+  display: flex;
+  flex-direction: column;
+  padding: 80px;
+
+  .feature-img {
+    border-radius: 5px;
+
+    margin-bottom: 40px;
+  }
+}
